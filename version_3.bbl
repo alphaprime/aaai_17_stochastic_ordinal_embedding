@@ -1,0 +1,254 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Agarwal and Bottou}{2015}]{icml2015_agarwal15}
+Agarwal, A., and Bottou, L.
+\newblock 2015.
+\newblock A lower bound for the optimization of finite sums.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning (ICML)},  78--86.
+
+\bibitem[\protect\citeauthoryear{Ailon}{2012}]{Ailon:2012:ALA:2188385.2188390}
+Ailon, N.
+\newblock 2012.
+\newblock An active learning algorithm for ranking from pairwise preferences
+  with an almost optimal query complexity.
+\newblock {\em Journal of Machine Learning Research (JMLR)} 13:137--164.
+
+\bibitem[\protect\citeauthoryear{Amidand and Ukkonen}{2015}]{amid2015multiview}
+Amidand, E., and Ukkonen, A.
+\newblock 2015.
+\newblock Multiview triplet embedding: Learning attributes in multiple maps.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning (ICML)},  1472--1480.
+
+\bibitem[\protect\citeauthoryear{{Arias-Castro}}{2015}]{2015arXiv150102861A}
+{Arias-Castro}, E.
+\newblock 2015.
+\newblock {Some theory for ordinal embedding}.
+\newblock {\em ArXiv e-prints}.
+
+\bibitem[\protect\citeauthoryear{Borg and Groenen}{2005}]{Borg05}
+Borg, I., and Groenen, P. J.~F.
+\newblock 2005.
+\newblock {\em Modern Multidimensional Scaling: Theory and Applications}.
+
+\bibitem[\protect\citeauthoryear{Ellis \bgroup et al\mbox.\egroup
+  }{2002}]{ellis2002quest}
+Ellis, D.~P.; Whitman, B.; Berenzweig, A.; and Lawrence, S.
+\newblock 2002.
+\newblock The quest for ground truth in musical artist similarity.
+\newblock In {\em Proceedings of the 3rd International Society for Music
+  Information Retrieval Conference (ISMIR)}.
+
+\bibitem[\protect\citeauthoryear{Ghadimi and Lan}{2013}]{ghadimi2013stochastic}
+Ghadimi, S., and Lan, G.
+\newblock 2013.
+\newblock Stochastic first- and zeroth-order methods for nonconvex stochastic
+  programming.
+\newblock {\em SIAM Journal on Optimization} 23(4):2341--2368.
+
+\bibitem[\protect\citeauthoryear{Heim \bgroup et al\mbox.\egroup
+  }{2015}]{doi:10.1137/1.9781611974010.31}
+Heim, E.; Berger, M.; Seversky, L.~M.; and Hauskrecht, M.
+\newblock 2015.
+\newblock Efficient online relative comparison kernel learning.
+\newblock In {\em Proceedings of the 2015 SIAM International Conference on Data
+  Mining (SDM)},  271--279.
+
+\bibitem[\protect\citeauthoryear{Jain, Jamieson, and
+  Nowak}{2016}]{2016arXiv160607081J}
+Jain, L.; Jamieson, K.; and Nowak, R.
+\newblock 2016.
+\newblock Finite sample prediction and recovery bounds for ordinal embedding.
+\newblock {\em ArXiv e-prints}.
+
+\bibitem[\protect\citeauthoryear{Jamieson and Nowak}{2011a}]{kevin2011active}
+Jamieson, K., and Nowak, R.
+\newblock 2011a.
+\newblock Active ranking using pairwise comparisons.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)},
+  2240--2248.
+
+\bibitem[\protect\citeauthoryear{Jamieson and Nowak}{2011b}]{jamieson2011low}
+Jamieson, K., and Nowak, R.
+\newblock 2011b.
+\newblock Low-dimensional embedding using adaptively selected ordinal data.
+\newblock In {\em Proceedings of the 49th Annual Allerton Conference on
+  Communication, Control, and Computing (Allerton)},  1077--1084.
+
+\bibitem[\protect\citeauthoryear{Johnson and Zhang}{2013}]{rie2013accelerating}
+Johnson, R., and Zhang, T.
+\newblock 2013.
+\newblock Accelerating stochastic gradient descent using predictive variance
+  reduction.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)},
+  315--323.
+
+\bibitem[\protect\citeauthoryear{Kruskal}{1964a}]{Kruskal1964a}
+Kruskal, J.~B.
+\newblock 1964a.
+\newblock Multidimensional scaling by optimizing goodness of fit to a nonmetric
+  hypothesis.
+\newblock {\em Psychometrika} 29(1):1--27.
+
+\bibitem[\protect\citeauthoryear{Kruskal}{1964b}]{Kruskal1964b}
+Kruskal, J.~B.
+\newblock 1964b.
+\newblock Nonmetric multidimensional scaling: A numerical method.
+\newblock {\em Psychometrika} 29(2):115--129.
+
+\bibitem[\protect\citeauthoryear{Lan \bgroup et al\mbox.\egroup
+  }{2012}]{NIPS2012_0599}
+Lan, Y.; Guo, J.; Cheng, X.; and yan Liu, T.
+\newblock 2012.
+\newblock Statistical consistency of ranking methods in a rank-differentiable
+  probability space.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)},
+  1241--1249.
+
+\bibitem[\protect\citeauthoryear{Lian \bgroup et al\mbox.\egroup
+  }{2015}]{NIPS2015_5751}
+Lian, X.; Huang, Y.; Li, Y.; and Liu, J.
+\newblock 2015.
+\newblock Asynchronous parallel stochastic gradient for nonconvex optimization.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)},
+  2737--2745.
+
+\bibitem[\protect\citeauthoryear{Matth?us~Kleindessner}{2014}]{53e99af7b7602d97023851bf}
+Matth?us~Kleindessner, U. v.~L.
+\newblock 2014.
+\newblock Uniqueness of ordinal embedding.
+\newblock In {\em Proceedings of The 27th Conference on Learning Theory
+  (COLT)},  40--67.
+
+\bibitem[\protect\citeauthoryear{McFee and
+  Lanckriet}{2009}]{McFee:2009:POE:1553374.1553467}
+McFee, B., and Lanckriet, G.
+\newblock 2009.
+\newblock Partial order embedding with multiple kernels.
+\newblock In {\em Proceedings of the 26th Annual International Conference on
+  Machine Learning (ICML)},  721--728.
+
+\bibitem[\protect\citeauthoryear{Mcfee and
+  Lanckriet}{2010}]{Mcfee10metriclearning}
+Mcfee, B., and Lanckriet, G.
+\newblock 2010.
+\newblock Metric learning to rank.
+\newblock In {\em Proceedings of the 27th International Conference on Machine
+  Learning (ICML)},  775¨C782.
+
+\bibitem[\protect\citeauthoryear{McFee and
+  Lanckriet}{2011}]{McFee:2011:LMS:1953048.1953063}
+McFee, B., and Lanckriet, G.
+\newblock 2011.
+\newblock Learning multi-modal similarity.
+\newblock {\em Journal of Machine Learning Research (JMLR)} 12:491--523.
+
+\bibitem[\protect\citeauthoryear{Ouyang and Gray}{2008}]{ouyang2008learning}
+Ouyang, H., and Gray, A.
+\newblock 2008.
+\newblock Learning dissimilarities by ranking: from sdp to qp.
+\newblock In {\em Proceedings of the 25th international conference on Machine
+  learning (ICML)},  728--735.
+
+\bibitem[\protect\citeauthoryear{Quist and
+  Yona}{2004}]{Quist2004DistributionalSA}
+Quist, M., and Yona, G.
+\newblock 2004.
+\newblock Distributional scaling: An algorithm for structure-preserving
+  embedding of metric and nonmetric spaces.
+\newblock {\em Journal of Machine Learning Research (JMLR)} 5:399--420.
+
+\bibitem[\protect\citeauthoryear{Reddic \bgroup et al\mbox.\egroup
+  }{2016}]{reddic2016nonconvex}
+Reddic, S.; Hefny, A.; Sra, S.; Poczos, B.; and Smola, A.
+\newblock 2016.
+\newblock Stochastic variance reduction for nonconvex optimization.
+\newblock In {\em Proceedings of the 33rd International Conference on Machine
+  Learning (ICML)},  314--323.
+
+\bibitem[\protect\citeauthoryear{R\'{o}mer and
+  Fung}{2006}]{RosalesSparselinear}
+R\'{o}mer, R., and Fung, G.
+\newblock 2006.
+\newblock Learning sparse metrics via linear programming.
+\newblock In {\em Proceedings of the 12th ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining},  367--373.
+
+\bibitem[\protect\citeauthoryear{Sameer \bgroup et al\mbox.\egroup
+  }{2007}]{agarwal2007generalized}
+Sameer, A.; Josh, W.; Lawrence, C.; RG, L.~G.; J, K.~D.; and Serge, B.
+\newblock 2007.
+\newblock Generalized non-metric multidimensional scaling.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Artificial Intelligence and Statistics (AISTATS)},  11--18.
+
+\bibitem[\protect\citeauthoryear{Shamir}{2015}]{icml2015_shamir15}
+Shamir, O.
+\newblock 2015.
+\newblock A stochastic pca and svd algorithm with an exponential convergence
+  rate.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning (ICML)},  144--152.
+
+\bibitem[\protect\citeauthoryear{Shaw and Jebara}{2009}]{ShawstructPE}
+Shaw, B., and Jebara, T.
+\newblock 2009.
+\newblock Structure preserving embedding.
+\newblock In {\em Proceedings of the 26th Annual International Conference on
+  Machine Learning (ICML)},  937--944.
+
+\bibitem[\protect\citeauthoryear{Shepard}{1962a}]{Shepard1962a}
+Shepard, R.~N.
+\newblock 1962a.
+\newblock The analysis of proximities: Multidimensional scaling with an unknown
+  distance function. i.
+\newblock {\em Psychometrika} 27(2):125--140.
+
+\bibitem[\protect\citeauthoryear{Shepard}{1962b}]{Shepard1962b}
+Shepard, R.~N.
+\newblock 1962b.
+\newblock The analysis of proximities: Multidimensional scaling with an unknown
+  distance function. ii.
+\newblock {\em Psychometrika} 27(3):219--246.
+
+\bibitem[\protect\citeauthoryear{Tamuz \bgroup et al\mbox.\egroup
+  }{2011}]{tamuz2011adaptiive}
+Tamuz, O.; Liu, C.; Shamir, O.; Kalai, A.; and Belongie, S.
+\newblock 2011.
+\newblock Adaptively learning the crowd kernel.
+\newblock In {\em Proceedings of the 28th International Conference on Machine
+  Learning (ICML)},  673--680.
+
+\bibitem[\protect\citeauthoryear{Terada and von
+  Luxburg}{2014}]{Terada2014LocalOE}
+Terada, Y., and von Luxburg, U.
+\newblock 2014.
+\newblock Local ordinal embedding.
+\newblock In {\em Proceedings of the 31st International Conference on Machine
+  Learning (ICML)},  847--855.
+
+\bibitem[\protect\citeauthoryear{van~der Maaten and
+  Weinberger}{2012}]{vandermaaten2012stochastic}
+van~der Maaten, L., and Weinberger, K.
+\newblock 2012.
+\newblock Stochastic triplet embedding.
+\newblock In {\em IEEE International Workshop on Machine Learning for Signal
+  Processing (MLSP)},  1--6.
+
+\bibitem[\protect\citeauthoryear{Wauthier, Jordan, and
+  Jojic}{2013}]{wauthier2013efficient}
+Wauthier, F.~L.; Jordan, M.~I.; and Jojic, N.
+\newblock 2013.
+\newblock Efficient ranking from pairwise comparisons.
+\newblock In {\em Proceedings of the 30th annual International Conference on
+  Machine Learning (ICML)},  109--117.
+
+\bibitem[\protect\citeauthoryear{{Xu} \bgroup et al\mbox.\egroup
+  }{2014}]{2014arXiv1408.3467X}
+{Xu}, Q.; {Xiong}, J.; {Huang}, Q.; and {Yao}, Y.
+\newblock 2014.
+\newblock {Robust Statistical Ranking: Theory and Algorithms}.
+\newblock {\em ArXiv e-prints}.
+
+\end{thebibliography}
